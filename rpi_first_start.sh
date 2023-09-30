@@ -5,4 +5,4 @@ sudo rpi-update
 sudo apt-get upgrade -y 
 sudo apt-get autoremove -y
 sudo apt-get autoclean -y
-sudo reboot now
+sudo apt install screen htop fail2ban
